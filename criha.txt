@@ -1,0 +1,9 @@
+cd .. Pfad
+git add criha.txt
+git commit -m "Message"
+git push
+
+Änderungen von jdietach wurden ebenso hinzugefügt
+
+git pull
+ 
