@@ -2,3 +2,4 @@
 FSST-Aufgabe
 Christopher Riha
 Julian Dietachmair
+jdietach@htl-steyr.ac.at
