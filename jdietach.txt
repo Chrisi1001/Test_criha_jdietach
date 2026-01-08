@@ -1,0 +1,7 @@
+cd.. Pfad
+git add jdietach.txt
+git commit -m "Message"
+git pull
+git commit -m "Message 2"
+git push
+
